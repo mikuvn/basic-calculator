@@ -12,7 +12,7 @@ a very basic, terminal-based standard arithmetic calculator in C.
 this is a simple calculator coded in C that can perform the basic arithmetic operations: addition, subtraction, multiplication, and division- as well as exponential powers. it runs via terminal/command-line entries and was created to practice coding basic applications and loop-based logic.
 
 this calculator does not have input validation, invalid characters will terminate the program.
-the calculator is relatively accurate (cosndiering how floating-point computations are); answers with long or trailing decimal values may be misrepresented.
+the calculator is relatively accurate (considering how floating-point computations are)- answers with long or trailing decimal values may be misrepresented.
 
 ## features
 
