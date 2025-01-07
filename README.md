@@ -24,7 +24,7 @@ the calculator is relatively accurate (considering how floating-point computatio
 
 - download the source code OR clone this repository with:
    ```bash
-   git clone https://github.com/mikuvn/basic-calculator
+   git clone https://github.com/mikuvn/basic-calculator.git
    ```
 - compile the code using a C compiler (e.g., GCC). 
 - run the executable via the terminal.
